@@ -3,3 +3,4 @@ First course from (Duke oop with java) "Java-Programming-Solving-Problems-with-S
 
 # Course Resources
 http://www.dukelearntoprogram.com/course2/index.php
+don't take it seriously, i'm a hobbyist.
